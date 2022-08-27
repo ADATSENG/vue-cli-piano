@@ -1,5 +1,7 @@
 # vue-cli-piano
 
+Demo [gh-pages](https://adatseng.github.io/)
+
 ## Project setup
 ```
 yarn install
