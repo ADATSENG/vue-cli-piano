@@ -1,8 +1,7 @@
 <template lang="pug">
 #app
   #nav
-    router-link(to='/') Paino |
-      router-link(to='/about') About
+    router-link(to='/') Paino 
 
   <router-view/>
 </template>
